@@ -255,6 +255,7 @@
     <item component="ComponentInfo{com.majosoft.anacode}" drawable="apps_anacode" />
     <item component="ComponentInfo{com.mangaphoenix.lite}" drawable="apps_mangaphoenix" />
     <item component="ComponentInfo{com.mars.miuifilemanager}" drawable="system_filemanager" />
+    <item component="ComponentInfo{com.maxmpz.audioplayer}" drawable="apps_poweramp" />
     <item component="ComponentInfo{com.mediocre.commute}" drawable="apps_commute" />
     <item component="ComponentInfo{com.medium.reader}" drawable="apps_medium" />
     <item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium}" drawable="apps_soundhound" />
