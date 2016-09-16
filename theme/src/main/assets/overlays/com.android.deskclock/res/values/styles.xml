@@ -64,7 +64,7 @@
     </style>
 
     <style name="DeskClockDropDownListView"
-        parent="@android:style/Widget.Material.ListView.DropDown" />
+           parent="@android:style/Widget.Material.ListView.DropDown"/>
 
     <style name="DeskClockTabStyle" parent="@style/DeskClockParentTheme">
         <item name="android:paddingLeft">@dimen/actionbar_tab_padding</item>
@@ -97,7 +97,7 @@
     </style>
 
     <style name="SettingsTheme.TextAppearance.ActionBar.Title"
-        parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
+           parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
         <item name="android:textSize">@dimen/actionbar_title_font_size</item>
     </style>
 

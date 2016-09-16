@@ -57,4 +57,11 @@
 
     <!-- Multi-sim Edit Name Test Color -->
     <color name="msim_edit_name_text_color">@*common:color/theme_white</color>
+
+    <!-- Tint for Google or other external icons in the dashboard -->
+    <color name="external_tile_icon_tint_color">@color/theme_accent</color>
+
+    <!-- Storage Summary Hard colors-->
+    <color name="storage_summary_text_color">@*common:color/theme_primary</color>
+    <color name="storage_summary_used_text_color">@*common:color/theme_white</color>
 </resources>

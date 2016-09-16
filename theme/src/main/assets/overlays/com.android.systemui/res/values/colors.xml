@@ -4,6 +4,7 @@
     <color name="theme_accent">@*common:color/theme_primary</color>
     <color name="theme_black">@*common:color/theme_black</color>
     <color name="theme_white">@*common:color/theme_white</color>
+
     <color name="system_primary_color">@*common:color/theme_dark</color>
     <color name="system_secondary_color">@*common:color/theme_black</color>
     <color name="system_accent_color">@*common:color/theme_primary</color>
@@ -58,6 +59,18 @@
     <color name="segmented_button_unselected">#B3B0BEC5</color>
 
     <color name="volume_panel_divider">#1FFFFFFF</color>
+
+    <!-- QS Settings Text Colors -->
+    <color name="qs_tile_reset_to_default_text_color">@*common:color/theme_white</color>
+    <color name="qs_title_text_color">@*common:color/theme_primary</color>
+    <color name="qs_edit_header_instruction_text_color">@*common:color/theme_white</color>
+    <color name="qs_row_text_color">@*common:color/theme_white</color>
+
+    <!-- Warning message bg color after choosing silence mode -->
+    <color name="zen_introduction_message_background">#14ffffff</color>
+
+    <!-- Zen modes in DND tile -->
+    <color name="segmented_buttons_background">#14FFFFFF</color>
 
     <!-- Blisspop Colors -->
     <color name="notification_header_bg">@*common:color/theme_dark</color>

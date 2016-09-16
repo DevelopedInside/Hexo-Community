@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- CyanogenMod 13 Part -->
+    <style name="Theme.Power.Dialog" parent="@android:style/Theme.Material">
+        <item name="android:colorBackground">@color/theme_dark</item>
+        <item name="android:colorPrimary">@color/theme_accent</item>
+        <item name="android:colorPrimaryDark">@color/theme_accent</item>
+        <item name="android:colorAccent">@color/theme_accent</item>
+    </style>
+
+    <!-- Theme for the dialog shown when an app crashes or ANRs. -->
+    <style name="Theme.Dialog.AppError" parent="@*android:style/Theme.Material.Dialog.Alert">
+        <item name="android:colorBackground">@color/theme_dark</item>
+        <item name="android:colorPrimary">@color/theme_accent</item>
+        <item name="android:colorPrimaryDark">@color/theme_accent</item>
+        <item name="android:colorAccent">@color/theme_accent</item>
+
+        <item name="android:windowContentTransitions">false</item>
+        <item name="android:windowActivityTransitions">false</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+    </style>
+
+</resources>

@@ -8,9 +8,9 @@
         <item name="android:colorEdgeEffect">@*common:color/theme_edge</item>
     </style>
 
-    <style name="Theme.Settings" parent="@style/Theme.SettingsBase" />
+    <style name="Theme.Settings" parent="@style/Theme.SettingsBase"/>
 
-    <style name="Theme.SubSettings" parent="@style/Theme.SettingsBase" />
+    <style name="Theme.SubSettings" parent="@style/Theme.SettingsBase"/>
 
     <style name="Theme.DialogWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge">
         <item name="android:actionBarStyle">@*common:style/Cyngn.AppBar</item>
@@ -46,10 +46,9 @@
         <item name="android:textAlignment">viewStart</item>
     </style>
 
-    <style name="Theme.Light.WifiDialog" parent="@*android:style/Theme.Material.Dialog.Alert" />
+    <style name="Theme.Light.WifiDialog" parent="@*android:style/Theme.Material.Dialog.Alert"/>
 
     <style name="Theme.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
         <item name="android:elevation">0dp</item>
     </style>
-
 </resources>

@@ -19,7 +19,7 @@
         android:color="@color/clock_white">
     <item>
         <shape android:shape="oval">
-            <solid android:color="@*common:color/theme_primary" />
+            <solid android:color="@*common:color/theme_primary"/>
         </shape>
     </item>
 </ripple>

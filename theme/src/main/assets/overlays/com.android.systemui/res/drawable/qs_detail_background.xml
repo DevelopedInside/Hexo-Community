@@ -1,4 +1,4 @@
 <transition xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:drawable="@color/qs_detail_transition" />
-    <item android:drawable="@color/theme_black" />
+    <item android:drawable="@color/qs_detail_transition"/>
+    <item android:drawable="@color/theme_black"/>
 </transition>

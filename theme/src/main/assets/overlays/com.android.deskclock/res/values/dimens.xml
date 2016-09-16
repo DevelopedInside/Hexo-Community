@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<resources>
     <dimen name="label_text_size">14sp</dimen>
     <dimen name="time_text_size">120dip</dimen>
     <dimen name="ampm_text_size">20dip</dimen>
@@ -105,7 +105,7 @@
 
     <!-- The width and height of the notification icon -->
     <dimen name="notification_icon_size">64dip</dimen>
-     <!-- Size of notification text (see TextAppearance.StatusBar.EventContent) -->
+    <!-- Size of notification text (see TextAppearance.StatusBar.EventContent) -->
     <dimen name="notification_text_size">14dp</dimen>
     <!-- Size of notification text titles (see TextAppearance.StatusBar.EventContent.Title) -->
     <dimen name="notification_title_text_size">18dp</dimen>

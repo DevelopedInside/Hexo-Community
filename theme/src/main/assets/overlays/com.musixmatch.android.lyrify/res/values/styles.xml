@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-     <style name="Notification.Text" parent="@android:style/TextAppearance.StatusBar.EventContent">
+    <style name="Notification.Text" parent="@android:style/TextAppearance.StatusBar.EventContent">
         <item name="android:textColor">@*common:color/theme_white</item>
     </style>
 
