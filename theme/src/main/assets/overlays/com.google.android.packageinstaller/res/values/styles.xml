@@ -14,4 +14,7 @@
         <item name="android:contentInsetStart">72dp</item>
         <item name="android:background">@*common:color/theme_black</item>
     </style>
+
+    <style name="Theme.DialogWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge.NoActionBar">
+    </style>
 </resources>
