@@ -36,6 +36,7 @@
     <!-- CM13 -->
     <item component="ComponentInfo{org.cyanogenmod.snap}" drawable="cyngn_camera"/>
     <item component="ComponentInfo{org.cyanogenmod.screencast}" drawable="cyngn_cast"/>
+    <item component="ComponentInfo{org.cyanogenmod.theme.chooser2}" drawable="cyngn_themes"/>
 
     <!-- Microsoft Apps -->
     <item component="ComponentInfo{com.microsoft.office.excel}" drawable="microsoft_excel"/>
