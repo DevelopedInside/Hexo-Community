@@ -2,6 +2,20 @@
 <resources>
     <dimen name="dashboard_category_elevation">0dp</dimen>
     <dimen name="dashboard_tile_image_size">24dp</dimen>
-    <dimen name="dashboard_category_padding_start">12dp</dimen>
-    <dimen name="dashboard_category_padding_end">12dp</dimen>
+
+    <!-- Dashboard tile image margin start / end -->
+    <dimen name="dashboard_tile_image_margin_start">24dp</dimen>
+    <dimen name="dashboard_tile_image_margin_end">32dp</dimen>
+
+    <!-- Result item image size -->
+    <dimen name="search_result_item_image_size">24dp</dimen>
+
+    <!-- Suggestion item image size -->
+    <dimen name="search_suggestion_item_image_size">24dp</dimen>
+
+    <!-- Dashboard category title layout height -->
+    <!-- <dimen name="dashboard_category_title_height">32dp</dimen> -->
+
+    <!-- Dashboard tile minimum height -->
+    <dimen name="dashboard_tile_minimum_height">56dp</dimen> <!-- 64 -->
 </resources>

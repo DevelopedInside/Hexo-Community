@@ -10,7 +10,8 @@
     <color name="system_accent_color">@*common:color/theme_primary</color>
     <color name="system_warning_color">@*common:color/theme_primary</color>
 
-    <color name="qs_text">@*common:color/theme_primary</color>
+    <!-- <color name="qs_text">@*common:color/theme_primary</color> -->
+    <color name="qs_text">@*common:color/theme_white</color>
     <color name="qs_tile_text">@*common:color/theme_primary</color>
     <color name="qs_tile_divider">#00ffffff</color>
     <color name="qs_detail_transition">#66FFFFFF</color>
@@ -37,10 +38,10 @@
     <color name="notification_ripple_tinted_color">#8000b1e5</color>
 
     <!-- The "inside" of a notification, reached via longpress -->
-    <color name="notification_guts_bg_color">@*common:color/theme_dark</color>
+    <!-- <color name="notification_guts_bg_color">@*common:color/theme_dark</color>
     <color name="notification_guts_title_color">@*common:color/theme_black</color>
     <color name="notification_guts_text_color">@*common:color/theme_black</color>
-    <color name="notification_guts_btn_color">@*common:color/theme_black</color>
+    <color name="notification_guts_btn_color">@*common:color/theme_black</color> -->
 
     <!-- Nav Bar Ripple Color -->
     <color name="navbutton_ripple_color">@*common:color/theme_primary</color>
@@ -51,7 +52,9 @@
     <color name="data_usage_graph_warning">@*common:color/theme_highlighter</color>
 
     <!-- Expanded Status Bar Weather Text Colors -->
-    <color name="status_bar_temperature_text_color">@*common:color/theme_primary</color>
+    <!-- <color name="status_bar_temperature_text_color">@*common:color/theme_primary</color>
+    <color name="status_bar_temperature_location_text_color">@*common:color/theme_primary</color> -->
+    <color name="status_bar_temperature_text_color">@*common:color/theme_white</color>
     <color name="status_bar_temperature_location_text_color">@*common:color/theme_primary</color>
 
     <!-- Volume Panel Zen Mode Icon Tint -->

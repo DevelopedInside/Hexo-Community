@@ -40,6 +40,10 @@
         <item name="android:textColor">@color/theme_accent</item>
     </style>
 
+    <style name="TextAppearance.Material.Widget.ActionBar.Menu" parent="@android:style/TextAppearance.Material.Menu">
+        <item name="android:textColor">@*common:color/theme_primary</item>
+    </style>
+
     <!-- Notifications -->
     <style name="TextAppearance.Material.Notification.Title" parent="@android:style/TextAppearance.Material.Notification.Title">
         <item name="android:textSize">@dimen/notification_title_text_size</item>
@@ -53,9 +57,5 @@
 
     <style name="TextAppearance.Material.Notification.Emphasis" parent="@android:style/TextAppearance.Material.Notification.Emphasis">
         <item name="android:textColor">#CCFFFFFF</item>
-    </style>
-
-    <style name="TextAppearance.Material.Widget.ActionBar.Menu" parent="@android:style/TextAppearance.Material.Menu">
-        <item name="android:textColor">#FFFFD200</item>
     </style>
 </resources>

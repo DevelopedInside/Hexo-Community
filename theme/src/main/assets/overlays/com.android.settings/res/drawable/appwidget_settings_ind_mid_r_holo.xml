@@ -2,6 +2,6 @@
 <selector
     xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
-        <nine-patch android:src="@drawable/appwidget_settings_ind_mid_r_holo_image" android:tint="@color/theme_accent"/>
+        <nine-patch android:src="@drawable/appwidget_settings_ind_mid_r_holo_image" android:tint="@color/theme_primary"/>
     </item>
 </selector>

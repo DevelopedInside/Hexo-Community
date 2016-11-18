@@ -7,7 +7,7 @@
 
     <style name="TextAppearance.StatusBar.Expanded.Clock" parent="@*android:style/TextAppearance.StatusBar">
         <item name="android:fontFamily">sans-serif-medium</item>
-        <item name="android:textColor">@color/theme_accent</item>
+        <item name="android:textColor">@color/theme_white</item>
     </style>
 
     <style name="TextAppearance.StatusBar.Expanded.Date" parent="@*android:style/TextAppearance.StatusBar">
