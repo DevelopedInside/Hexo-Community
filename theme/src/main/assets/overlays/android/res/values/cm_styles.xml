@@ -6,6 +6,7 @@
         <item name="android:colorPrimary">@color/theme_accent</item>
         <item name="android:colorPrimaryDark">@color/theme_accent</item>
         <item name="android:colorAccent">@color/theme_accent</item>
+        <item name="android:colorControlNormal">@color/theme_white</item>
     </style>
 
     <!-- Theme for the dialog shown when an app crashes or ANRs. -->

@@ -58,4 +58,12 @@
     <style name="TextAppearance.Material.Notification.Emphasis" parent="@android:style/TextAppearance.Material.Notification.Emphasis">
         <item name="android:textColor">#CCFFFFFF</item>
     </style>
+
+    <style name="Widget.Material.SeekBar" parent="@android:style/Widget.Material.SeekBar">
+        <item name="android:splitTrack">false</item>
+    </style>
+
+    <style name="Widget.Material.Light.SeekBar" parent="@android:style/Widget.Material.Light.SeekBar">
+        <item name="android:splitTrack">false</item>
+    </style>
 </resources>
