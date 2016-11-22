@@ -16,8 +16,8 @@
           android:gravity="center_vertical|fill_horizontal">
         <shape android:shape="rectangle"
                android:tint="?*android:attr/colorControlNormal">
-            <size android:height="@*android:dimen/seekbar_track_background_height_material" />
-            <solid android:color="@*android:color/white_disabled_material" />
+            <size android:height="@*android:dimen/seekbar_track_background_height_material"/>
+            <solid android:color="@*android:color/white_disabled_material"/>
         </shape>
     </item>
     <item android:id="@*android:id/secondaryProgress"
@@ -25,12 +25,12 @@
         <scale android:scaleWidth="100%">
             <selector>
                 <item android:state_enabled="false"
-                      android:drawable="@*android:color/transparent" />
+                      android:drawable="@*android:color/transparent"/>
                 <item>
                     <shape android:shape="rectangle"
                            android:tint="?*android:attr/colorControlActivated">
-                        <size android:height="@*android:dimen/seekbar_track_progress_height_material" />
-                        <solid android:color="@*android:color/white_disabled_material" />
+                        <size android:height="@*android:dimen/seekbar_track_progress_height_material"/>
+                        <solid android:color="@*android:color/white_disabled_material"/>
                     </shape>
                 </item>
             </selector>
@@ -41,12 +41,12 @@
         <scale android:scaleWidth="100%">
             <selector>
                 <item android:state_enabled="false"
-                      android:drawable="@*android:color/transparent" />
+                      android:drawable="@*android:color/transparent"/>
                 <item>
                     <shape android:shape="rectangle"
                            android:tint="?*android:attr/colorControlActivated">
-                        <size android:height="@*android:dimen/seekbar_track_progress_height_material" />
-                        <solid android:color="@*common:color/theme_primary" />
+                        <size android:height="@*android:dimen/seekbar_track_progress_height_material"/>
+                        <solid android:color="@*common:color/theme_primary"/>
                     </shape>
                 </item>
             </selector>
