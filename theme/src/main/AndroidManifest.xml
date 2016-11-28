@@ -15,11 +15,11 @@
  * limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.pcgmedia.hexo">
+          package="ru.devinside.cyanogenmod.themes.pcg_hexo_community">
 
     <uses-sdk
-        android:minSdkVersion="21"
-        android:targetSdkVersion="21"/>
+        android:minSdkVersion="23"
+        android:targetSdkVersion="23"/>
 
     <uses-feature
         android:name="org.cyanogenmod.theme"
@@ -37,12 +37,8 @@
 
     <application
         android:hasCode="false"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_launcher"
         android:label="@string/theme_name">
-        <activity
-            android:name="com.pcgmedia.hexo.HexoActivity"
-            android:label="@string/title_activity_hexo">
-        </activity>
     </application>
 
 </manifest>

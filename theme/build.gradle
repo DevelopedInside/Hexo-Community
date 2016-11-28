@@ -2,20 +2,21 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "23.0.0"
-
+    buildToolsVersion '23.0.0'
     defaultConfig {
-        applicationId "com.pcgmedia.hexo"
-        minSdkVersion 21
+        applicationId "ru.devinside.cyanogenmod.themes.pcg_hexo_community"
+        minSdkVersion 23
         targetSdkVersion 23
-        versionCode 21
-        versionName "0.7.2b"
+        versionCode 1
+        versionName "0.0.1a"
     }
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
+    }
+    productFlavors {
     }
 }
 

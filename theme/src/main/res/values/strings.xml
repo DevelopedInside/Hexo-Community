@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
- * Copyright (C) 2014 The CyanogenMod Project, Cyanogen, Inc. & PCG
+ * Copyright (C) 2016 The CyanogenMod Project, Cyanogen, Inc., PCG, DevelopedInside
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -17,9 +17,6 @@
 -->
 <resources>
     <string name="theme_name">Hexo (Community)</string>
-    <string name="theme_author">cyngn/community/pcg</string>
+    <string name="theme_author">cyngn/community/pcg/devInside</string>
     <string name="theme_email">pcgamesk@gmail.com</string>
-    <string name="title_activity_hexo">Easter Egg</string>
-    <string name="thank_you">So, you went through code to find this. Good job!</string>
-    <string name="action_settings">Yay! Another one!</string>
 </resources>
