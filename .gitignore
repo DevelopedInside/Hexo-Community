@@ -1,32 +1,7 @@
 .gradle
-.idea
 /local.properties
 /.idea
-/.idea/workspace.xml
-/.idea/libraries
 .DS_Store
 /build
-/captures
-/theme/build/
-
-*~
-
-# Built application files
-/*/build/
-
-# Gradle generated files
-# User-specific configurations
-.idea/.name
-.idea/compiler.xml
-.idea/copyright/profiles_settings.xml
-.idea/misc.xml
-.idea/modules.xml
 *.iml
-
-# OS-specific files
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
+/theme/build/
