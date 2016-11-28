@@ -80,5 +80,5 @@
 
     <!-- Active color for volume slider -->
     <color name="volume_slider_active">@android:color/transparent</color>
-    <color name="volume_slider_inactive">#FFB0BEC5</color>
+    <color name="volume_slider_inactive">@android:color/transparent</color>
 </resources>
