@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- CyanogenMod 13 Part -->
-    <style name="Theme.Power.Dialog" parent="@android:style/Theme.Material">
+    <style name="Theme.Power.Dialog" parent="@android:style/Theme.Material.Dialog">
         <item name="android:colorBackground">@color/theme_dark</item>
         <item name="android:colorPrimary">@color/theme_accent</item>
         <item name="android:colorPrimaryDark">@color/theme_accent</item>
@@ -21,4 +21,19 @@
         <item name="android:windowCloseOnTouchOutside">false</item>
     </style>
 
+    <!-- Special theme for the recent apps dialog, to allow customization
+         with overlays. -->
+    <style name="Theme.Dialog.RecentApplications" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:colorBackground">@color/theme_dark</item>
+        <item name="android:colorPrimary">@color/theme_accent</item>
+        <item name="android:colorPrimaryDark">@color/theme_accent</item>
+        <item name="android:colorAccent">@color/theme_accent</item>
+
+        <item name="android:windowBackground">@*android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@*android:style/Animation.RecentApplications</item>
+        <item name="android:textColor">@*android:color/secondary_text_nofocus</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+        <item name="android:windowContentTransitions">false</item>
+        <item name="android:windowActivityTransitions">false</item>
+    </style>
 </resources>

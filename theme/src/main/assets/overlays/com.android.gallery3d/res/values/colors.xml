@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_background">@*common:color/theme_dark</color>
+    <color name="primary">@*common:color/theme_black</color>
+    <color name="primary_dark">@*common:color/theme_black</color>
+    <color name="accent">@*common:color/theme_primary</color>
+    <color name="material_blue_grey_950">@*common:color/theme_dark</color>
+
+    <color name="albumset_background">@*common:color/theme_dark</color>
+    <color name="album_background">@*common:color/theme_dark</color>
+    <color name="photo_background">@*common:color/theme_dark</color>
+    <color name="cache_background">@*common:color/theme_dark</color>
+    <color name="slideshow_background">@*common:color/theme_dark</color>
+
+</resources>

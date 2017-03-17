@@ -38,4 +38,19 @@
         <item name="android:textColorPrimary">@*common:color/theme_white</item>
         <item name="android:textColorSecondary">@*common:color/theme_white_dark</item>
     </style>
+
+    <!-- Cyanogen -->
+    <style name="ActionBar" parent="@android:style/Widget.Material.ActionBar">
+        <item name="android:contentInsetStart">72dp</item>
+        <item name="android:background">@*common:color/theme_black</item>
+    </style>
+
+    <style name="Theme.Header.Settings" parent="@android:style/Theme.Material">
+        <item name="android:actionBarStyle">@style/Cyngn.AppBar</item>
+        <item name="android:actionBarWidgetTheme">@null</item>
+        <item name="android:statusBarColor">@*common:color/theme_statusbar</item>
+        <item name="android:colorEdgeEffect">@*common:color/theme_edge</item>
+        <item name="android:textColorPrimary">@*common:color/theme_white</item>
+        <item name="android:textColorSecondary">@*common:color/theme_white_dark</item>
+    </style>
 </resources>
