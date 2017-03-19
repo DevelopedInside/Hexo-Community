@@ -4,22 +4,30 @@
     <!-- Material Light-->
     <style name="Theme.Material.Light" parent="@android:style/Theme.Material.Light">
         <item name="android:listDivider">@*common:drawable/list_divider_cyngn</item>
+        <!-- <item name="android:colorPrimaryDark">?android:attr/colorPrimary</item> -->
+
+        <!-- <item name="android:statusBarColor">?android:attr/colorPrimaryDark</item> -->
+        <item name="android:navigationBarColor">?android:attr/colorPrimaryDark</item>
     </style>
 
     <!-- Material -->
     <style name="Theme.Material" parent="@android:style/Theme.Material">
         <item name="android:textColorAlertDialogListItem">@color/theme_white</item>
         <item name="android:listDivider">@*common:drawable/list_divider_cyngn</item>
+        <!-- <item name="android:colorPrimaryDark">?android:attr/colorPrimary</item> -->
+
+        <!-- <item name="android:statusBarColor">?android:attr/colorPrimaryDark</item> -->
+        <item name="android:navigationBarColor">?android:attr/colorPrimaryDark</item>
     </style>
 
     <style name="Theme.Material.Settings" parent="@android:style/Theme.Material">
         <item name="android:actionBarStyle">@*common:style/Cyngn.AppBar</item>
         <item name="android:colorBackground">@*common:color/theme_dark</item>
-        <item name="android:colorPrimary">@*common:color/theme_primary</item>
-        <item name="android:colorPrimaryDark">@*common:color/theme_primary_dark</item>
+        <!-- <item name="android:colorPrimary">@*common:color/theme_primary</item> -->
+        <!-- <item name="android:colorPrimaryDark">@*common:color/theme_primary_dark</item> -->
+        <item name="android:colorPrimaryDark">@*common:color/theme_black</item>
         <item name="android:colorAccent">@*common:color/theme_primary</item>
-        <item name="android:statusBarColor">@*common:color/theme_statusbar</item>
-        <item name="android:listDivider">@*common:drawable/list_divider_cyngn</item>
+        <!-- <item name="android:statusBarColor">@*common:color/theme_statusbar</item> -->
     </style>
 
     <style name="Theme.Material.Settings.CompactMenu" parent="@android:style/Theme.Material.Settings">
