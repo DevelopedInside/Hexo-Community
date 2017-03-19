@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_bar_background">@*common:color/theme_black</color>
+    <color name="audiofx_background_color">@*common:color/theme_dark</color>
+    <color name="window_background">@*common:color/theme_black</color>
+</resources>
