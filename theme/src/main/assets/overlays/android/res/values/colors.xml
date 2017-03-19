@@ -31,7 +31,7 @@
     <color name="background_floating_material_dark">@*common:color/theme_dark</color>
     <color name="background_floating_material_light">#ffeeeeee</color>
 
-    <color name="primary_material_dark">@*common:color/theme_dark</color>
+    <color name="primary_material_dark">@*common:color/theme_black</color>
     <color name="primary_material_light">#ffbdbdbd</color>
     <color name="primary_dark_material_dark">@*common:color/theme_black</color>
     <color name="primary_dark_material_light">#ff757575</color>

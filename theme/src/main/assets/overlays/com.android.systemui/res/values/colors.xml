@@ -5,8 +5,8 @@
     <color name="theme_black">@*common:color/theme_black</color>
     <color name="theme_white">@*common:color/theme_white</color>
 
-    <color name="system_primary_color">@*common:color/theme_dark</color>
-    <color name="system_secondary_color">@*common:color/theme_black</color>
+    <color name="system_primary_color">@*common:color/theme_black</color>
+    <color name="system_secondary_color">@*common:color/theme_dark</color>
     <color name="system_accent_color">@*common:color/theme_primary</color>
     <color name="system_warning_color">@*common:color/theme_primary</color>
 
@@ -19,19 +19,19 @@
     <color name="qs_subhead">#9900b1e5</color>
 
     <!-- The color of the material notification background -->
-    <color name="notification_material_background_color">@*common:color/theme_dark</color>
+    <color name="notification_material_background_color">@*common:color/theme_black</color>
 
     <!-- The color of the material notification background when dimmed -->
-    <color name="notification_material_background_dimmed_color">@*common:color/theme_dark</color>
+    <color name="notification_material_background_dimmed_color">@*common:color/theme_black</color>
 
     <!-- The color of the material notification background when low priority -->
-    <color name="notification_material_background_low_priority_color">@*common:color/theme_dark</color>
+    <color name="notification_material_background_low_priority_color">@*common:color/theme_black</color>
 
     <!-- The color of the material notification background for media notifications -->
-    <color name="notification_material_background_media_default_color">@*common:color/theme_dark</color>
+    <color name="notification_material_background_media_default_color">@*common:color/theme_black</color>
 
     <!-- The color of the legacy notification background -->
-    <color name="notification_legacy_background_color">@*common:color/theme_dark</color>
+    <color name="notification_legacy_background_color">@*common:color/theme_black</color>
 
     <color name="notification_ripple_untinted_color">#8000b1e5</color>
     <color name="notification_ripple_color_low_priority">#4800b1e5</color>
